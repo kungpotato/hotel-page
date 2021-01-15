@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    font-family: 'Prompt';
+    background: #eee;
+}
+
+.bg-image {
+    background-image: url("photo/architecture-1867187_1280.jpg");
+    height: 98vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #cccccc;
+    border-bottom-left-radius: 50% 5%;
+    border-bottom-right-radius: 50% 5%;
+}
+
+.main-title {
+    color: white;
+    padding-top: 80px;
+    text-shadow:5px 5px 10px black;
+}
+
+.sub-title{
+    text-decoration: underline;
+    padding: 4px;
+}
+
+.regis-form {
+    background-color: rgb(60, 60, 60, 0.8);
+    padding: 8px;
+}
+
+.in-img-text{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 400px;
+    background-color:  rgb(60, 60, 60, 0.8);
+    color: white;
+    padding: 20px;
+    text-shadow:5px 5px 10px black;
+}
+
+label {
+    color: white;
+}
+
+p{
+    margin-bottom: auto;
+}
+
+
