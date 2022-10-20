@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/307.107f768c.chunk.js","mappings":"0IAKA,UAJwB,WACpB,OAAO,4CACV,C","sources":["modules/footerDetail/SelectionDesign.tsx"],"sourcesContent":["\nconst SelectionDesign = () => {\n    return <div>SelectionDesign</div>\n}\n\nexport default SelectionDesign"],"names":[],"sourceRoot":""}

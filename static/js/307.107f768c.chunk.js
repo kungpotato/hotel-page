@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbix_front_end=self.webpackChunkbix_front_end||[]).push([[307],{32307:function(n,e,i){i.r(e);var t=i(80184);e.default=function(){return(0,t.jsx)("div",{children:"SelectionDesign"})}}}]);
+//# sourceMappingURL=307.107f768c.chunk.js.map
